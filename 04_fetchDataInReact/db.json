@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "zaza",
+      "body": "orem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley"
+    },
+    {
+      "id": 2,
+      "userName": "nugzari",
+      "body": "it over 2000 years old. Richard McClintock, a Latin professor at Hampden"
+    },
+    {
+      "id": 3,
+      "userName": "mzia",
+      "body": "going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem"
+    }
+  ]
+}
